@@ -1,0 +1,6 @@
+{
+    "nombre": "Admin User",
+    "correoElectronico": "admin@forohub.com",
+    "contrasena": "securepassword",
+    "isAdmin": true
+}
