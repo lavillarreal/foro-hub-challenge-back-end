@@ -36,7 +36,7 @@ public class ForohubApplication {
         databaseContext.setTopicoRepository(context.getBean(TopicoRepository.class));
         databaseContext.setRespuestaRepository(context.getBean(RespuestaRepository.class));
 		while(true){
-			System.out.print("PRIMER ARRANQUE");
+			System.out.print("JAVA BACKEND");
 			stdin_reader.readLine();
 		}
     }
